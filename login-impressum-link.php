@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     Login Impressum Link
- * Plugin URI:      PLUGIN SITE HERE
+ * Plugin URI:      https://github.com/pixolin/login-impressum-link
  * Description:     Fügt den Link zu deinem Impressum auf der Anmeldeseite hinzu.
  * Author:          Bego Mario Garde <pixolin@pixolin.de>
  * Author URI:      https://pixolin.de
