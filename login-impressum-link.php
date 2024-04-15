@@ -6,7 +6,7 @@
  * Author:          Bego Mario Garde <pixolin@pixolin.de>
  * Author URI:      https://pixolin.de
  * License:         GPLv2 or later
- * Version:         0.1.0
+ * Version:         0.1.1
  *
  * @package         Login_Impressum_Link
  */
