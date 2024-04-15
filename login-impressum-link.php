@@ -28,7 +28,7 @@ function add_login_impressum( $link ) {
 	if ( empty( $impressum ) ) {
 		return; }
 
-	$link = '<a href="' . $impressum . '">Impressum</a> ' . $link;
+	$link = '<a href="' . get_permalink( $impressum ) . '">Impressum</a> ' . $link;
 
 	return $link;
 }
