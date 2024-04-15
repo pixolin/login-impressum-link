@@ -5,8 +5,7 @@
  * Description:     Fügt den Link zu deinem Impressum auf der Anmeldeseite hinzu.
  * Author:          Bego Mario Garde <pixolin@pixolin.de>
  * Author URI:      https://pixolin.de
- * Text Domain:     login-impressum-link
- * Domain Path:     /languages
+ * License:         GPLv2 or later
  * Version:         0.1.0
  *
  * @package         Login_Impressum_Link
